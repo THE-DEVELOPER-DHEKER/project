@@ -1,0 +1,51 @@
+h1{
+    color: blue;
+}
+.dheker{
+    color: red;
+}
+#adem{
+    COLOR:PINK;
+}
+
+.page{
+    border: 2px solid black
+}
+aside {
+padding-block-end: 0%;}
+nav li{
+    display: inline;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  nav ul li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover:not(.active) {
+    background-color: rgb(17, 17, 17);
+  }
+ 
+  
+  .active {
+    background-color: #04AA6D;
+  }
+ 
+  
+   
+
+
+
